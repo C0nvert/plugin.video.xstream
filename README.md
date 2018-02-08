@@ -3,4 +3,4 @@
 
 Dieses Addon wurde eingstellt!
 
-### [Ein Ähnliches Addon](https://lastship.square7.ch)
+### [Ein Ähnliches Addon](http://lastship.square7.ch)
